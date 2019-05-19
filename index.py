@@ -5,10 +5,10 @@ import os
 
 width = 100
 
-x = -0.65#-1.77
+x = -0.65
 y = 0
-xRange = 3.4#0.085
-aspectRatio = 4/3 #16/9
+xRange = 3.4
+aspectRatio = 4/3
 
 height = round(width / aspectRatio)
 yRange = xRange / aspectRatio
